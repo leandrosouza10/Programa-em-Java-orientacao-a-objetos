@@ -1,4 +1,4 @@
-# Programa-em-Java-sem-orientacao-abjetos
+# Programa-em-Java-orientacao-objetos
 ## Curso Java do Nelio Alves
 
 #### Fazer um programa para ler as medidas dos lados de dois triângulos X e Y. Em seguida, mostrar o valor das áreas dos dois triângulos e dizer qual dos dois triâgulos possui a maior àrea.
